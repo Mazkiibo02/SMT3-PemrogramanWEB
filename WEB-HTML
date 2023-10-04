@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AestheticMe</title>
+</head>
+<body>
+    <table width="100%" height="100%">
+        <tr>
+            <td width="200" valign="top">
+            
+                <a href="#contact" style="text-decoration: none; display: block; margin-top: 20px; border-bottom: 1px solid #000; padding: 5px 0; text-align: center;">Contact</a>
+                <a href="#about" style="text-decoration: none; display: block; margin-top: 20px; border-bottom: 1px solid #000; padding: 5px 0; text-align: center;">About</a>
+            </td>
+            <td>
+                <div style="margin-left: 50px; margin-right: 400px;"> 
+                    
+                    <h1 style="color: #333; text-align: center;">Selamat datang di AestheticMe - Tempat untuk Transformasi Tubuh Anda!</h1>
+                    <img src="Gambar/estetikme-transformed.png" alt="Contoh Gambar"=center style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    
+                    <p style="font-size: 20px; color: #000000; text-align: justify;">Apakah Anda mencari cara untuk mencapai bentuk tubuh yang lebih baik, lebih kuat, dan lebih estetis? Kami di AestheticMe siap membantu Anda mencapai tujuan kebugaran dan estetika tubuh yang Anda impikan.
+
+                        Di sini, kami menghadirkan sebuah komunitas yang berfokus pada kesehatan, kebugaran, dan peningkatan bentuk tubuh. Apakah Anda seorang pemula yang ingin memulai perjalanan kebugaran atau seorang atlet berpengalaman yang ingin mengasah kemampuan Anda, kami memiliki sumber daya, informasi, dan dukungan yang Anda butuhkan.
+                        
+                        Apa yang Anda dapatkan di AestheticMe:</p>
+                    <br>
+                    <ul>
+                    <li><p style="text-align: left; font-size: 18px;">Pelatihan yang Terbukti: Pelajari rutinitas pelatihan yang efektif untuk membangun otot, meningkatkan kekuatan, dan membakar lemak.</p></li>
+                    <li><p style="text-align: left; font-size: 18px;">Nutrisi yang Seimbang: Dapatkan panduan nutrisi yang tepat untuk mendukung perjalanan kebugaran Anda dan mencapai hasil yang optimal.</p></li>
+                    <li><p style="text-align: left; font-size: 18px">Dukungan Komunitas: Bergabunglah dengan komunitas kami yang penuh semangat untuk mendapatkan motivasi, dukungan, dan inspirasi dari sesama pencinta kebugaran.</p></li>
+                    <li><p style="text-align: left; font-size: 18px">Informasi Terkini: Akses artikel, tips, dan berita terbaru tentang kebugaran, kesehatan, dan estetika tubuh.</p></li>
+                    <li><p style="text-align: left; font-size: 18px">Panduan Ahli: Dapatkan nasihat dari para ahli kebugaran dan pelatih berlisensi.</p></li>
+                    <li><p style="text-align: left; font-size: 18px">Kami percaya bahwa kebugaran dan estetika tubuh adalah perjalanan yang penuh prestasi, tantangan, dan belajar. Bersama-sama, mari kita capai bentuk tubuh terbaik yang Anda impikan.</p></li>
+                    </ul>
+                    <br>
+                    <p style="font-size: 20px; color: #000000; text-align: justify;">Berikut adalah gerakan agar anda bisa memiliki bentuk tubuh V Taper</p>
+                    <br>
+                    <p style="text-align: left; font-size: 18px;">1. Latihan straight-arm pulldown</p>
+                    <img src="Gambar/sfidn-latihan-otot-v-shape-straight-arm-pulldown-1 (1).jpg" alt="Contoh Gambar"=center style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+                    <p style="text-align: left; font-size: 18px;">Latihan ini sangat efektif untuk melatih otot bagian upper lats / teres major yang letaknya dibawah ketiak kalian. Latihan ini memiliki manfaat utama untuk membentuk otot punggung optimal.</p>
+                    <p style="text-align: left; font-size: 16px;">Tips :  Gunakan sebuah straight bar dan condongkan badan dibagian pinggul ketika melakukan latihan ini.</p>
+                    <br>
+                    <p style="text-align: left; font-size: 18px;">2. Latihan dumbbell pullover</p>
+                    <img src="Gambar/sfidn-latihan-otot-v-shape-dumbbell-pullover-2.jpg" alt="Contoh Gambar"=center style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+                    <p style="text-align: left; font-size: 18px;">Latihan kedua ini cukup sama dengan gerakan latihan pertama, perbedaannya pada latihan dumbbell pullover akan memberikan peregangan yang lebih baik pada pertengahan gerakan. Selain itu, latihan ini juga akan secara langsung mengaktifkan otot-otot dada kalian.</p>
+                    <p style="text-align: left; font-size: 16px;">Tips : Lakukan latihan ini secara perlahan sekitar 8 hingga 15 repetisi per set. Selalu kondisikan agar siku hanya sedikit menekuk, hal ini akan membuat peregangan yang kuat dan bisa menambah tekanan pada teres major daripada otot pectoral kalian.</p>
+                    <br>
+                    <p style="text-align: left; font-size: 18px;">3. Latihan wide-grip pull-up</p>
+                    <img src="Gambar/sfidn-latihan-otot-v-shape-wide-grip-pull-up-3.jpg" alt="Contoh Gambar"=center style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+                    <p style="text-align: left; font-size: 18px;">Latihan wide grip pull up sangatlah baik untuk melebarkan scapula yang bisa membantu membentuk otot lats yang lebih lebar dan juga mengesankan pastinya.</p>
+                    <p style="text-align: left; font-size: 16px;">Tips : Lakukan 10 repetisi secara lengkap sesuai dengan berat badan kalian sebelum menambah beban latihan. Lakukan eksperimen seperti pengaturan sudut tarikan tubuh.</p>
+                    <br>
+                    <p style="text-align: left; font-size: 18px;">4. Latihan seated cable row</p>
+                    <img src="Gambar/sfidn-latihan-otot-v-shape-seated-cable-row-4.jpg" alt="Contoh Gambar"=center style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+                    <p style="text-align: left; font-size: 18px;">Latihan ini sangat baik dan bermanfaat untuk melatih otot lats / teres dan bisa mendorong otot tersebut sehingga akan berkembang besar.</p>
+                    <p style="text-align: left; font-size: 16px;">Tips : Pastikan lakukan peregangan sempurna pada setiap repetisi dan tariklah bar menuju kea rah perut bawah untuk mengaktifkan otot lats. Pastikan agar tetap tegak dengan dada membusung kemudian punggung bawah yang sedikit melengkung.</p>
+                    <br>
+                    <p style="text-align: left; font-size: 18px;">5. Latihan dumbbell row</p>
+                    <img src="Gambar/download.jpeg" alt="Contoh Gambar"=center style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+                    <p style="text-align: left; font-size: 18px;">Latihan dumbbell row bermanfaat untuk membangun lats yang lebih lebar dan juga tebal.</p>
+                    <p style="text-align: left; font-size: 16px;">Tips : Untuk mendapatkan hasil yang maksimal, coba lakukan gerakan ini secara sempurna tanpa memanfaatkan ayunan. Pastikan kalian merasakan peregangan penuh dibawah dan kontraksi pada puncak setiap repetisinya. Kondisikan agar torso tetap sejajar lantai dan angkat dumbbell kearah belakang melewati pinggang kalian.</p>
+                    <br>
+                    <p style="text-align: left; font-size: 18px;">6. Latihan side lateral raise</p>
+                    <img src="Gambar/sfidn-latihan-otot-v-shape-side-lateral-raise-6.jpg" alt="Contoh Gambar"=center style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+                    <p style="text-align: left; font-size: 18px;">Latihan ini membantu membentuk otot deltoid / otot bahu semakin lebar. Latihan ini sangatlah efektif jika dilakukan dengan benar.</p>
+                    <p style="text-align: left; font-size: 16px;">Tips : Lakukan side lateral raise tanpa mengayun. Kondisikan selalu agar tangan tetap sejajar lantai dipuncak gerakan dan juga kondisikan siku agar tetap membengkok selama gerakan dilakukan.</p>
+                    <br>
+                    <p style="text-align: left; font-size: 18px;">7. Latihan upright row</p>
+                    <img src="Gambar/sfidn-latihan-otot-v-shape-upright-row-7.jpg" alt="Contoh Gambar"=center style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+                    <p style="text-align: left; font-size: 18px;">Latihan terakhir ini adalah alternatif untuk mendapatkan otot deltoid yang besar dan lebar. Cukup worth dilakukan untuk tambahan latihan dengan beban lanjutan.</p>
+                    <p style="text-align: left; font-size: 16px;">Tips : Lakukan upright row dengan grip selebar bahu. Fokus untuk mengangkat dengan bahu, bukan menggunakan otot trapezius. Angkatlah bar setinggi dada (jangan melebihi dada kalian).</p>
+                    <br>
+                    <h2 id="contact" style="color: #333; text-align: center;">Contact</h2>
+                    <p style="font-size: 16px; color: #666; text-align: center;">E-mail : vdz.rach123@gmail.com</p>
+                    <p style="font-size: 16px; color: #666; text-align: center;">IG: @hafidz_rach</p>
+                    <p style="font-size: 16px; color: #666; text-align: center;">Facebook: Hafidz Rahmatullah</p>
+                    
+                    <h2 id="about" style="color: #333; text-align: center;">About</h2>
+                    <p style="font-size: 16px; color: #666; text-align: center;">Hafidz Rahmatullah</p>
+                    <p style="font-size: 16px; color: #666; text-align: center;">Mahasiswa D4 Teknik Informatika</p>
+                    <p style="font-size: 16px; color: #666; text-align: center;">Politeknik Harapan Bersama</p>
+                    <p style="font-size: 16px; color: #666; text-align: center;">Ini adalah website pertama saya yang menggunakan HTML.</p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
