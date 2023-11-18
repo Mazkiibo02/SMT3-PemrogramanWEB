@@ -1,6 +1,8 @@
 :root {
     --primary: rgb(131, 131, 131);
     --bg: rgb(11, 11, 11);
+    --white: #fff;
+    --black: #000;
 }
 
 * {
@@ -72,7 +74,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url("../img/web.jpg");
+    background: url("dark.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -170,6 +172,88 @@ p {
     font-size: 1.4rem;
 }
 
+/*js gelap/terang*/
+body.light-mode {
+    background-color: var(--white);
+    color: #333;
+}
+
+body.dark-mode {
+    background-color: var(--bg);
+    color: var(--white);
+}
+
+.dark-mode {
+    background-color: #161111;
+    color: var(--white);
+}
+
+#footerLogoDark {
+    color: var(--white);
+}
+
+#footerLogoLight {
+    color: var(--black);
+}
+
+/*cekbox*/
+.resume {
+    padding: 10rem 7% 4rem;
+    margin: auto;
+    width: 1000px;
+    text-align: justify;
+}
+
+h4 {
+    text-align: center;
+    font-size: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+#ch {
+    display: none;
+}
+
+#ch:checked ~ .isi {
+    display: block;
+}
+
+#ch:checked ~ label {
+    display: none;
+}
+
+.isi {
+    display: none;
+    margin: auto;
+    text-align: justify;
+}
+
+label {
+    display: inline-block;
+    cursor: pointer;
+    color: var(--primary);
+}
+
+/*checkbox*/
+.kontak {
+    padding: 10rem 7% 4rem;
+}
+
+.kontak h5 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.sosmed {
+    text-align: center;
+    margin: 20px;
+}
+
+.sosmed a {
+    color: white;
+    margin: 15px;
+}
+
 .kontak {
     padding: 10rem 7% 4rem;
 }
@@ -189,15 +273,22 @@ p {
     margin: 15px;
 }
 
-@media (max-width: 1366px) {
-    html {
-        font-size: 75%;
-    }
-}
-
 @media (max-width: 768px) {
     html {
         font-size: 50%;
+    }
+
+    .background .content,
+    .aboutme,
+    .resume,
+    .kontak,
+    .portofolio {
+        padding: 1.4rem 10%;
+    }
+
+    .aboutme img {
+        width: 100%;
+        max-width: 300px;
     }
 }
 
@@ -205,4 +296,15 @@ p {
     html {
         font-size: 45%;
     }
+}
+
+/* Warna angka 0133 pada mode cerah */
+body.light-mode .navbar-logo span {
+    color: royalblue;
+}
+
+/* Warna teks pada mode cerah */
+body.light-mode .background .content h1,
+body.light-mode .background .content p {
+    color: royalblue; /* Ganti warna sesuai keinginan Anda */
 }
